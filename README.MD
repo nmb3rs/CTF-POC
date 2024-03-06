@@ -1,41 +1,57 @@
-heap:
+<details>
+  <summary><strong>Heap challenges</strong></summary>
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/0xLaugh2023/PWN/pwn1/exploit.py
+    - [Pwn1](https://github.com/Numb3rsProprety/CTF-POC/blob/main/0xLaugh2023/PWN/pwn1/exploit.py)
     
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/Maltigriti/exploit.py
+    - [Maltigriti](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/Maltigriti/exploit.py)
     
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Robot/exploit.py
+    - [Robot](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Robot/exploit.py)
 
-stack:
+</details>
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/404CTF2023/PWN/Alchimiste/exploit.py
+<details>
+  <summary><strong>Stack challenges</strong></summary>
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/AmateursCTF2024/PWN/RNTK/exploit.py
+    - [Alchimiste](https://github.com/Numb3rsProprety/CTF-POC/blob/main/404CTF2023/PWN/Alchimiste/exploit.py)
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Pterodactyle/exploit.py
+    - [RNTK](https://github.com/Numb3rsProprety/CTF-POC/blob/main/AmateursCTF2024/PWN/RNTK/exploit.py)
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/GccCTF2024/PWN/babybof/exploit.py
+    - [Pterodactyle](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Pterodactyle/exploit.py)
 
+    - [babybof](https://github.com/Numb3rsProprety/CTF-POC/blob/main/GccCTF2024/PWN/babybof/exploit.py)
 
-format string:
+</details>
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/floormats/exploit.py
+<details>
+  <summary><strong>Format string challenges</strong></summary>
 
-vm:
+    - [floormats](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/floormats/exploit.py)
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/MayTheFifth/exploit.py
+</details>
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/MayTheForth/exploit.py
+<details>
+  <summary><strong>VM challenges</strong></summary>
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/PWNME2023/PWN/Chip8/exploit.py
+    - [MayTheFifth](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/MayTheFifth/exploit.py)
 
+    - [MayTheForth](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/MayTheForth/exploit.py)
 
-shellcoding:
+    - [Chip8](https://github.com/Numb3rsProprety/CTF-POC/blob/main/PWNME2023/PWN/Chip8/exploit.py)
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/AmateursCTF2024/PWN/PerfectSandbox/exploit.py
+</details>
 
-rop:
+<details>
+  <summary><strong>Shellcoding challenges</strong></summary>
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/GccCTF2024/PWN/cuttinstring/exploit.py
+    - [PerfectSandbox](https://github.com/Numb3rsProprety/CTF-POC/blob/main/AmateursCTF2024/PWN/PerfectSandbox/exploit.py)
 
-    - https://github.com/Numb3rsProprety/CTF-POC/blob/main/PWNMEFINALE2023/PWN/BLAISE/exploit.py
+</details>
+
+<details>
+  <summary><strong>ROP challenges</strong></summary>
+
+    - [cuttinstring](https://github.com/Numb3rsProprety/CTF-POC/blob/main/GccCTF2024/PWN/cuttinstring/exploit.py)
+
+    - [BLAISE](https://github.com/Numb3rsProprety/CTF-POC/blob/main/PWNMEFINALE2023/PWN/BLAISE/exploit.py)
+
+</details>
