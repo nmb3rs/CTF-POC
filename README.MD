@@ -3,9 +3,9 @@
 
     [Pwn1](https://github.com/Numb3rsProprety/CTF-POC/blob/main/0xLaugh2023/PWN/pwn1/exploit.py)
     
-    - [Maltigriti](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/Maltigriti/exploit.py)
+    [Maltigriti](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/Maltigriti/exploit.py)
     
-    - [Robot](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Robot/exploit.py)
+    [Robot](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Robot/exploit.py)
 
 </details>
 
