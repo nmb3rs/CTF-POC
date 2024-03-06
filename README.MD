@@ -1,57 +1,49 @@
-<details>
-  <summary><strong>Heap challenges</strong></summary>
+### Heap Challenges:
 
-    [Pwn1](https://github.com/Numb3rsProprety/CTF-POC/blob/main/0xLaugh2023/PWN/pwn1/exploit.py)
-    
-    [Maltigriti](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/Maltigriti/exploit.py)
-    
-    [Robot](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Robot/exploit.py)
+1. **0xLaugh 2023** - [PWN/pwn1](https://github.com/Numb3rsProprety/CTF-POC/blob/main/0xLaugh2023/PWN/pwn1/exploit.py)
+   - Description: Challenge description goes here.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/0xLaugh2023/PWN/pwn1/exploit.py)
 
-</details>
+2. **1337CTF 2023** - [PWN/Maltigriti](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/Maltigriti/exploit.py)
+   - Description: Challenge description goes here.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/Maltigriti/exploit.py)
 
-<details>
-  <summary><strong>Stack challenges</strong></summary>
+3. **FCSC 2023** - [PWN/Robot](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Robot/exploit.py)
+   - Description: Challenge description goes here.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Robot/exploit.py)
 
-    - [Alchimiste](https://github.com/Numb3rsProprety/CTF-POC/blob/main/404CTF2023/PWN/Alchimiste/exploit.py)
+### Stack Challenges:
 
-    - [RNTK](https://github.com/Numb3rsProprety/CTF-POC/blob/main/AmateursCTF2024/PWN/RNTK/exploit.py)
+1. **404CTF 2023** - [PWN/Alchimiste](https://github.com/Numb3rsProprety/CTF-POC/blob/main/404CTF2023/PWN/Alchimiste/exploit.py)
+   - Description: Challenge description goes here.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/404CTF2023/PWN/Alchimiste/exploit.py)
 
-    - [Pterodactyle](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Pterodactyle/exploit.py)
+2. **AmateursCTF 2024** - [PWN/RNTK](https://github.com/Numb3rsProprety/CTF-POC/blob/main/AmateursCTF2024/PWN/RNTK/exploit.py)
+   - Description: Challenge description goes here.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/AmateursCTF2024/PWN/RNTK/exploit.py)
 
-    - [babybof](https://github.com/Numb3rsProprety/CTF-POC/blob/main/GccCTF2024/PWN/babybof/exploit.py)
+3. **FCSC 2023** - [PWN/Pterodactyle](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Pterodactyle/exploit.py)
+   - Description: Challenge description goes here.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Pterodactyle/exploit.py)
 
-</details>
+4. **GccCTF 2024** - [PWN/babybof](https://github.com/Numb3rsProprety/CTF-POC/blob/main/GccCTF2024/PWN/babybof/exploit.py)
+   - Description: Challenge description goes here.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/GccCTF2024/PWN/babybof/exploit.py)
 
-<details>
-  <summary><strong>Format string challenges</strong></summary>
+### Format String Challenges:
 
-    - [floormats](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/floormats/exploit.py)
+1. **1337CTF 2023** - [PWN/floormats](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/floormats/exploit.py)
+   - Description: Challenge description goes here.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/floormats/exploit.py)
 
-</details>
+### VM Challenges:
 
-<details>
-  <summary><strong>VM challenges</strong></summary>
+1. **FCSC 2023** - [PWN/MayTheFifth](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/MayTheFifth/exploit.py)
+   - Description: Challenge description goes here.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/MayTheFifth/exploit.py)
 
-    - [MayTheFifth](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/MayTheFifth/exploit.py)
+2. **FCSC 2023** - [PWN/MayTheForth](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/MayTheForth/exploit.py)
+   - Description: Challenge description goes here.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/MayTheForth/exploit.py)
 
-    - [MayTheForth](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/MayTheForth/exploit.py)
-
-    - [Chip8](https://github.com/Numb3rsProprety/CTF-POC/blob/main/PWNME2023/PWN/Chip8/exploit.py)
-
-</details>
-
-<details>
-  <summary><strong>Shellcoding challenges</strong></summary>
-
-    - [PerfectSandbox](https://github.com/Numb3rsProprety/CTF-POC/blob/main/AmateursCTF2024/PWN/PerfectSandbox/exploit.py)
-
-</details>
-
-<details>
-  <summary><strong>ROP challenges</strong></summary>
-
-    - [cuttinstring](https://github.com/Numb3rsProprety/CTF-POC/blob/main/GccCTF2024/PWN/cuttinstring/exploit.py)
-
-    - [BLAISE](https://github.com/Numb3rsProprety/CTF-POC/blob/main/PWNMEFINALE2023/PWN/BLAISE/exploit.py)
-
-</details>
+3. **PWNME 2023** - [PWN/Chip8](https://github.com/Numb3rsProprety/CTF-POC/blob/main
