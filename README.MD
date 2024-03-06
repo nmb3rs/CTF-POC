@@ -1,7 +1,7 @@
 <details>
   <summary><strong>Heap challenges</strong></summary>
 
-    - [Pwn1](https://github.com/Numb3rsProprety/CTF-POC/blob/main/0xLaugh2023/PWN/pwn1/exploit.py)
+    [Pwn1](https://github.com/Numb3rsProprety/CTF-POC/blob/main/0xLaugh2023/PWN/pwn1/exploit.py)
     
     - [Maltigriti](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/Maltigriti/exploit.py)
     
