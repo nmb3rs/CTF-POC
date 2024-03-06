@@ -1,0 +1,1 @@
+- writeup: https://www.numb3rs.re/writeup/pwnme2023_chip8/
