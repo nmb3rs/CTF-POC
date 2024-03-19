@@ -28,6 +28,15 @@
    - Description: Exploit overflow in a SafeStack to overwrite tls.
    - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/GccCTF2024/PWN/babybof/exploit.py)
 
+5. **WolvCTF 2024** - [PWN/DeepString](https://github.com/Numb3rsProprety/CTF-POC/tree/main/wolvCTF2024/PWN/DeepString/exploit.py)
+   - Description: Exploit OOB to call arbitrary function
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/tree/main/wolvCTF2024/PWN/DeepString/exploit.py)
+
+6. **WolvCTF 2024** - [PWN/Byteover](https://github.com/Numb3rsProprety/CTF-POC/tree/main/wolvCTF2024/PWN/byteover/exploit.py)
+   - Description: Exploit Off By One on the stack.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/tree/main/wolvCTF2024/PWN/byteover/exploit.py)
+
+
 ### Format String Challenges:
 
 1. **1337CTF 2023** - [PWN/floormats](https://github.com/Numb3rsProprety/CTF-POC/blob/main/1337CTF2023/PWN/floormats/exploit.py)
