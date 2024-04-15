@@ -11,6 +11,20 @@
    - Description: Exploit UAF to leak PIE and then to rewrite heap structures to call an arbitrary function. 
    - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/Robot/exploit.py)
 
+4. **FCSC 2024** - [PWN/Cheapolata](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2024/PWN/Cheapolata/exploit.py)
+   - Description: Exploit double free to overwrite local `__free_hook`
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2024/PWN/Cheapolata/exploit.py)
+   - Writeup: https://numb3rs.re/writeup/fcsc2024_cheapolata/
+
+5. **FCSC 2024** - [PWN/BookWriter](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2024/PWN/BookWriter/exploit.py)
+   - Description: Exploit int overflow to have an out of bound.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2024/PWN/BookWriter/exploit.py)
+
+6. **FCSC 2024** - [PWN/BookWriterEasy](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2024/PWN/BookWriterEasy/exploit.py)
+   - Description: Easier version of Book Writer. Exploit int overflow to have an out of bound.
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2024/PWN/BookWriterEasy/exploit.py)
+
+
 ### Stack Challenges:
 
 1. **404CTF 2023** - [PWN/Alchimiste](https://github.com/Numb3rsProprety/CTF-POC/blob/main/404CTF2023/PWN/Alchimiste/exploit.py)
@@ -35,6 +49,7 @@
 6. **WolvCTF 2024** - [PWN/Byteover](https://github.com/Numb3rsProprety/CTF-POC/tree/main/wolvCTF2024/PWN/byteover/exploit.py)
    - Description: Exploit Off By One on the stack.
    - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/tree/main/wolvCTF2024/PWN/byteover/exploit.py)
+
 
 
 ### Format String Challenges:
