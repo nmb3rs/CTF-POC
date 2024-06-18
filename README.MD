@@ -50,6 +50,13 @@
    - Description: Exploit Off By One on the stack.
    - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/tree/main/wolvCTF2024/PWN/byteover/exploit.py)
 
+7. **FCSC 2024** - [PWN/Note a bug 2](https://github.com/Numb3rsProprety/CTF-POC/tree/main/FCSC2024/Note a Bug 2/)
+   - Description: Exploit overflow to execute a ROP that calls memprotect to then execute a shellcode
+   - Exploit Script: [Note A Bug 3](https://github.com/Numb3rsProprety/CTF-POC/tree/main/FCSC2024/Note a Bug 2/)
+
+8. **FCSC 2024** - [PWN/Note a bug 2](https://github.com/Numb3rsProprety/CTF-POC/tree/main/FCSC2024/Note a bug 3/)
+   - Description: Exploit overflow to leak libc to execute a ROP that calls memprotect to then execute a shellcode
+   - Exploit Script: [Note A Bug 3](https://github.com/Numb3rsProprety/CTF-POC/tree/main/FCSC2024/Note a bug 3/)
 
 
 ### Format String Challenges:
@@ -71,3 +78,10 @@
 3. **PWNME 2023** - [PWN/Chip8](https://github.com/Numb3rsProprety/CTF-POC/blob/main/PWNME2023/PWN/Chip8/exploit.py)
    - Description: Exploitation of an OOB in a register of the VM.
    - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2023/PWN/MayTheForth/exploit.py)
+
+### Special Challenges:
+
+1. **FCSC 2024** - [PWN/ZarbyWrite](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2024/PWN/ZarbyWrite/exploit.py)
+   - Description: Exploit arbitrary write to overwrite exit routine
+   - Exploit Script: [exploit.py](https://github.com/Numb3rsProprety/CTF-POC/blob/main/FCSC2024/PWN/ZarbyWrite/exploit.py)
+
