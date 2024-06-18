@@ -52,11 +52,11 @@
 
 7. **FCSC 2024** - [PWN/Note a bug 2](https://github.com/Numb3rsProprety/CTF-POC/tree/main/FCSC2024/Note a Bug 2/)
    - Description: Exploit overflow to execute a ROP that calls memprotect to then execute a shellcode
-   - Exploit Script: [Note A Bug 3](https://github.com/Numb3rsProprety/CTF-POC/tree/main/FCSC2024/Note a Bug 2/)
+   - Exploit Script: [Note A Bug 3](https://github.com/Numb3rsProprety/CTF-POC/tree/main/FCSC2024/Note%20a%20Bug%202/)
 
 8. **FCSC 2024** - [PWN/Note a bug 2](https://github.com/Numb3rsProprety/CTF-POC/tree/main/FCSC2024/Note a bug 3/)
    - Description: Exploit overflow to leak libc to execute a ROP that calls memprotect to then execute a shellcode
-   - Exploit Script: [Note A Bug 3](https://github.com/Numb3rsProprety/CTF-POC/tree/main/FCSC2024/Note a bug 3/)
+   - Exploit Script: [Note A Bug 3](https://github.com/Numb3rsProprety/CTF-POC/tree/main/FCSC2024/Note%20a%20bug%203/)
 
 
 ### Format String Challenges:
