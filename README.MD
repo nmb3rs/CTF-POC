@@ -62,6 +62,10 @@
    - Description: Stack pivot to make a sigrop. 
    - Exploit Script: [Fermat](https://github.com/nmb3rs/CTF-POC/blob/main/ImaginaryCTF2024/PWN/Ropity/exploit.py)
 
+10. **TFCCTF 2024** - [PWN/GuardTheBypass](https://github.com/nmb3rs/CTF-POC/blob/main/TFC2024/PWN/GuardTheBypass/exploit.py)
+   - Description: Overwrite saved cookie to ROP.
+   - Exploit Script: [Fermat](https://github.com/nmb3rs/CTF-POC/blob/main/TFC2024/PWN/GuardTheBypass/exploit.py)
+
 ### Format String Challenges:
 
 1. **1337CTF 2023** - [PWN/floormats](https://github.com/nmb3rs/CTF-POC/blob/main/1337CTF2023/PWN/floormats/exploit.py)
