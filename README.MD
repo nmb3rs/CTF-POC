@@ -58,12 +58,23 @@
    - Description: Exploit overflow to leak libc to execute a ROP that calls memprotect to then execute a shellcode
    - Exploit Script: [Note A Bug 3](https://github.com/nmb3rs/CTF-POC/tree/main/FCSC2024/PWN/Note%20a%20bug%203/)
 
+9. **ImaginaryCTF 2024** - [PWN/Fermat](https://github.com/nmb3rs/CTF-POC/blob/main/ImaginaryCTF2024/PWN/Ropity/exploit.py)
+   - Description: Stack pivot to make a sigrop. 
+   - Exploit Script: [Fermat](https://github.com/nmb3rs/CTF-POC/blob/main/ImaginaryCTF2024/PWN/Ropity/exploit.py)
 
 ### Format String Challenges:
 
 1. **1337CTF 2023** - [PWN/floormats](https://github.com/nmb3rs/CTF-POC/blob/main/1337CTF2023/PWN/floormats/exploit.py)
    - Description: Leak flag via format string.
    - Exploit Script: [exploit.py](https://github.com/nmb3rs/CTF-POC/blob/main/1337CTF2023/PWN/floormats/exploit.py)
+
+2. **ImaginaryCTF 2024** - [PWN/Fermat](https://github.com/nmb3rs/CTF-POC/blob/main/ImaginaryCTF2024/PWN/Fermat/exploit.py)
+   - Description: Exploit format string to leak libc and overwrite LSB to rop in libc.
+   - Exploit Script: [exploit.py](https://github.com/nmb3rs/CTF-POC/blob/main/ImaginaryCTF2024/PWN/Fermat/exploit.py)
+
+3. **ImaginaryCTF 2024** - [PWN/Imgstore](https://github.com/nmb3rs/CTF-POC/blob/main/ImaginaryCTF2024/PWN/imgstore/exploit.py)
+   - Description: Exploit format string to leak data and then overwrite return address with ROP.
+   - Exploit Script: [exploit.py](https://github.com/nmb3rs/CTF-POC/blob/main/ImaginaryCTF2024/PWN/imgstore/exploit.py)
 
 ### VM Challenges:
 
